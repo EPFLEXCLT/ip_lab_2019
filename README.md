@@ -1,4 +1,4 @@
-# Lab in Signal and Image Processing, 2018
+# Lab in Signal and Image Processing - 2019
 
 This repository contains the material for the labs associated with the EPFL master course [EE-490 Lab in Signal and Image Processing][epfl_link] ([moodle][moodle_link]). The course material revolves around the following topics:
 
