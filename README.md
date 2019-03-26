@@ -15,6 +15,7 @@ Below is the material you'll find in that repository:
 1. [Installation](#installation)
 2. [Basic Image Processing](assignments/01_basic_image_processing.ipynb)
 3. [Object Detection and Recognition](assignments/02_object_detection_and_recognition.ipynb)
+4. [Object Tracking](assignments/03_object_tracking.ipynb)
 
 ## Installation
 
